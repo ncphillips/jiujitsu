@@ -1,0 +1,131 @@
+{
+  "main": {
+    "id": "574fefd3b84e478f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cb9c95c87a7d432",
+        "type": "split",
+        "children": [
+          {
+            "id": "257b10710af03de5",
+            "type": "leaf",
+            "dimension": 66.75774134790528,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BJJ Fanatics/Mikey Musumeci/K Guard Matrix.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "96b5c39ce888fd7d",
+            "type": "leaf",
+            "dimension": 33.24225865209472,
+            "state": {
+              "type": "mindmap",
+              "state": {}
+            }
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7caf3b5952154ebb",
+    "type": "split",
+    "children": [
+      {
+        "id": "67258c339e2be261",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "715e01c6cf2f7f3d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2214a41cbc644600",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "de",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 333,
+    "collapsed": true
+  },
+  "right": {
+    "id": "11fac1b321edd741",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b1a7e1c4097c567",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "129b1305ab5c3538",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "BJJ Fanatics/Mikey Musumeci/K Guard Matrix.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "134610da05d0b291",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "257b10710af03de5",
+  "lastOpenFiles": [
+    "BJJ Fanatics/Mikey Musumeci/K Guard Matrix.md",
+    "Untitled 1.md",
+    "K Guard/KG Getting the knee on your shoulder.md",
+    "K Guard/K-Guard.md",
+    "BJJ Fanatics/Mikey Musumeci/De La Riva System Part 2.md",
+    "BJJ Fanatics/John Danaher/Leg Locks Enter the System.md",
+    "De La Riva/DLR on the Ground.md",
+    "BJJ Fanatics/Gordon Ryan/Gordon Ryan Systematically Attacking From Half Guard          Gordon Ryan Systematically Attacking From Half Guard.md",
+    "Untitled.md",
+    "Lessons/DLR Series.md"
+  ]
+}
